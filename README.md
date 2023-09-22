@@ -1,7 +1,7 @@
 # Hit-Songs-Prediction-Web-App 
 
 This is a Web Application Project, aims to Predict whether a new released song will became Popular or not, using Machine learning algorithms.
-
+ALL Project files exist in the master branch
 ## Table of Contents
 
 [Project Description](https://github.com/Technocolabs100/Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus/tree/Team-A#project-description)
